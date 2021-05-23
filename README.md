@@ -1,2 +1,3 @@
-# traval-app
-Capstone Project of the Udacity Front End Web Developer Nanodegree Program
+# boilerplate
+
+File structure for Webpack Project. 
